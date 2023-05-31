@@ -1,0 +1,72 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("NIGGERS NIGGERS NIGGERS", "DarkTheme")
+
+local Tab = Window:NewTab("NIGGERS")
+local aSection = Tab:NewSection("NIGGERS")
+
+aSection:NewButton("NIGGERS", "NIGGERS", function()
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS";
+        Text = "NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS";
+        Icon = "rbxassetid://10182334140";
+        Button1 = "NIGGERS NIGGERS NIGGERS";
+        Button2 = "IHATETHEM IHATETHEM IHATETHEM";
+        Duration = 10;
+        })
+end)
+
+local Tab = Window:NewTab("NIGGERS")
+local bSection = Tab:NewSection("NIGGERS")
+
+bSection:NewButton("NIGGERS", "NIGGERS", function()
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS";
+        Text = "NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS";
+        Icon = "rbxassetid://10182334140";
+        Button1 = "NIGGERS NIGGERS NIGGERS";
+        Button2 = "IHATETHEM IHATETHEM IHATETHEM";
+        Duration = 10;
+        })
+end)
+
+local Tab = Window:NewTab("NIGGERS")
+local cSection = Tab:NewSection("NIGGERS")
+
+cSection:NewButton("NIGGERS", "NIGGERS", function()
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS";
+        Text = "NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS";
+        Icon = "rbxassetid://10182334140";
+        Button1 = "NIGGERS NIGGERS NIGGERS";
+        Button2 = "IHATETHEM IHATETHEM IHATETHEM";
+        Duration = 10;
+        })
+end)
+
+local Tab = Window:NewTab("NIGGERS")
+local dSection = Tab:NewSection("NIGGERS")
+
+dSection:NewButton("NIGGERS", "NIGGERS", function()
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS";
+        Text = "NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS";
+        Icon = "rbxassetid://10182334140";
+        Button1 = "NIGGERS NIGGERS NIGGERS";
+        Button2 = "IHATETHEM IHATETHEM IHATETHEM";
+        Duration = 10;
+        })
+end)
+
+local Tab = Window:NewTab("NIGGERS")
+local eSection = Tab:NewSection("NIGGERS")
+
+eSection:NewButton("NIGGERS", "NIGGERS", function()
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS";
+        Text = "NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS NIGGERS";
+        Icon = "rbxassetid://10182334140";
+        Button1 = "NIGGERS NIGGERS NIGGERS";
+        Button2 = "IHATETHEM IHATETHEM IHATETHEM";
+        Duration = 10;
+        })
+end)
